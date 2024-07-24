@@ -1,4 +1,4 @@
-# Survey-Project - An R code that reads files from survey question. 
+# Survey-Project - An R code that extracts data from survey question. 
 #Requirements to be met 
 #This script should run on an automated schedule at 12am EST everday (bonus)
 #It should loop through each line row within this document "C:/Users/user/Downloads/Standard Indicator Form.xlsx" and remembers so that it doesn't loop over it again once the three files (remember each row is a different "project") so files should be different) "C:/Users/user/Downloads/Training - Training Table Template.xlsx", "C:/Users/user/Downloads/Disaggregations.xlsx", "C:/Users/user/OneDrive/Downloads/Indicators.xlsx") have been generated for that project.
